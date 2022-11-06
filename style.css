@@ -1,0 +1,44 @@
+.backgroung-img{
+    background-repeat: no-repeat;
+    background-position: center;
+    max-width: 10px;
+    height: 50;
+    margin: 0;
+    padding: 0px
+
+}
+
+.google-img{
+    margin: 20px;
+    padding: 20px;
+    position: relative;
+    margin-top: 15rem;
+    
+}
+
+.input-group-text{
+    border-radius: 100px;
+    background-color: #ffffff;
+    border-right-style: none;
+}
+.google-input{
+    border: 1px solid #c9c9c9;
+    width: 30rem;
+    border-radius: 100px;
+    padding: 0 1rem;
+    border-left-style: none;
+}
+
+.small-4{
+    padding: 1rem;
+    
+}
+
+.text{
+    font-size: 15px;
+    font-style: normal;
+}
+
+.a-footer{
+    margin-top: 50px;
+}
